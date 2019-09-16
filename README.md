@@ -46,7 +46,7 @@ Running `mvn package` does a compile and creates the target directory, including
     src/test/java/com/mycompany/app/AppTest.java
     target/classes/com/mycompany/app/App.class
     target/maven-archiver/pom.properties
-    target/my-app-1.0-SNAPSHOT.jar
+    target/my-app-1.0-SNAPSHOT.jar 
     target/surefire-reports/com.mycompany.app.AppTest.txt
     target/surefire-reports/TEST-com.mycompany.app.AppTest.xml
     target/test-classes/com/mycompany/app/AppTest.class
